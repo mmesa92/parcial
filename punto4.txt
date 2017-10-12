@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES TO amartinez;
+	GRANT CREATE SESSION TO amartinez;

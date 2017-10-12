@@ -1,0 +1,4 @@
+    CREATE USER amartinez
+	IDENTIFIED BY amartinez
+	DEFAULT TABLESPACE RENTING_COLOMBIA
+	PROFILE comercial_medellin;
